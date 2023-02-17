@@ -1,0 +1,6 @@
+{
+    "enable_ssl": false,
+    "certificate": "ssl_cert.pem",
+    "key": "ssl_key.pem",
+    "force_ssl": true
+}
